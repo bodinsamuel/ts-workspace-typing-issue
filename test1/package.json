@@ -1,0 +1,9 @@
+{
+  "name": "test-ts-workspace-1",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/express": "4.17.12",
+    "express": "4.17.1"
+  }
+}

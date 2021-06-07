@@ -1,0 +1,15 @@
+{
+  "name": "test-ts-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Samuel Bodin <1637651+bodinsamuel@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.3.2"
+  },
+  "workspaces": [
+    "test1",
+    "test2"
+  ]
+}
